@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anshit07
+- 👋 Hi, I’m Anshit Thakur
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
